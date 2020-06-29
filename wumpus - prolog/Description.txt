@@ -1,0 +1,27 @@
+----------------------------------------
+
+# manual4x4: (In case using Libraries is not allowed)
+
+A 4x4 sudoku solver using manual pairwise duplicate check
+
+Note: The manual solver doesn't give a result for 9x9  sudoku, maybe it's slover as it checks all the cases one by one
+
+-----------------------------------------
+
+# s4x4:
+
+A 4x4 sudoku solver using CLP(FD) package predefined functions (predicates)
+
+-----------------------------------------
+
+# s9x9:
+
+A 0x0 sudoku solver using CLP(FD) package predefined functions (predicates)
+->Takes only a couple of seconds to solve - faster in comparison to pairwise version
+
+
+------------------------------------------
+
+Sample Queries (Sudoku Problems) are In the Prolog Files.
+
+------------------------------------------
